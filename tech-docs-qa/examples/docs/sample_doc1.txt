@@ -1,0 +1,6 @@
+Component: Power Supply Unit PSU-1200
+Description: Single-phase AC input, outputs +12V, +5V, -12V rails. Max rated current 10A on +12V.
+Notes:
+- Mounting: 4x M3 on 50x30 mm pattern
+- Interfaces: 2-pin AC input, 6-pin header to PCB
+Dependencies: Connects to Main PCB (MB-01) and Cooling Fan FAN-001
